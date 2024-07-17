@@ -10,10 +10,6 @@ This is a command-line tool that summarizes text using the Ollama API with the Q
     cd text-summarizer-cli
     ```
 
-2. Install the required packages:
-    ```bash
-    pip install click requests
-    ```
 
 ## Usage
 
