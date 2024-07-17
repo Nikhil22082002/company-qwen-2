@@ -1,7 +1,8 @@
 import requests
 import argparse
 
-# Replace 'YOUR_OLLAMA_API_KEY' with your actual Ollama API key
+# Replace API key with your own key
+
 OLLAMA_API_KEY = 'LL-90TYmcL3kp0XKJUxgBI9j0tf2HdAAaAz7ude7CXAmr0miGYK0SsYpik2nZi0dgFy'
 OLLAMA_API_URL = 'https://api.ollama.com/v1/models/qwen2-0.5b/summarize'
 
